@@ -1,0 +1,10 @@
+{
+  "transactions": [
+    {
+      "name": "pc ",
+      "type": "income",
+      "amount": 5000000,
+      "id": 1
+    }
+  ]
+}
